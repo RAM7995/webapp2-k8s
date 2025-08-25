@@ -4,5 +4,5 @@ resources:
   - deployment.yaml
   - service.yaml
 images:
-  - name:  ram7995/dotnet-app  # <-- replace
+  - name: ram7995/dotnet-app  # <-- replace
     newTag: 0.1.0                  # Jenkins will update this
