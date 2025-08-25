@@ -5,4 +5,4 @@ resources:
   - service.yaml
 images:
   - name: ram7995/dotnet-app  # <-- replace
-    newTag: v${BUILD_NUMBER}
+    newTag: v10
